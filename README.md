@@ -14,7 +14,7 @@ I successfully completed CS50x — Introduction to Computer Science, Harvard Uni
 
 Certificate Verification 
 
-My official CS50 certificate can be verified through the following link:
+My official CS50 certificate can be verified through the following link: https://cs50.harvard.edu/certificates/5650af3d-5377-4582-83e6-9a82f0cfffa3
 
 Verify my CS50 Certificate
 
